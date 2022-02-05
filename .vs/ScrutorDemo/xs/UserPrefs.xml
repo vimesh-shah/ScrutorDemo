@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{08F88DE3-E1B5-44D3-8305-B6E86439AA2C}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ScrutorDemo/Repository/CustomerCachedRepository.cs">
+    <Files>
+      <File FileName="ScrutorDemo/Program.cs" Line="22" Column="2" />
+      <File FileName="ScrutorDemo/Repository/CustomerCachedRepository.cs" Line="16" Column="59" />
+      <File FileName="ScrutorDemo/Repository/CustomerRepository.cs" Line="26" Column="1" />
+      <File FileName="ScrutorDemo/Controllers/CustomerController.cs" Line="23" Column="1" />
+      <File FileName="ScrutorDemo/Models/Customer.cs" Line="9" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ScrutorDemo" expanded="True">
+            <Node name="ScrutorDemo" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Repository" expanded="True">
+                <Node name="CustomerCachedRepository.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ScrutorDemo PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/vimesh/RiderProjects/ScrutorDemo/ScrutorDemo/Repository/CustomerRepository.cs" relfile="ScrutorDemo/Repository/CustomerRepository.cs" line="25" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
