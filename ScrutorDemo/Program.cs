@@ -10,7 +10,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddSingleton<ICustomerRepository, CustomerRepository>();
-builder.Services.Decorate<ICustomerRepository, CustomerCachedRepository>();
+builder.Services.Decorate<ICustomerRepository, CachedCustomerRepository>();
 
 var app = builder.Build();
 
